@@ -9,8 +9,8 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
-            <option value="$PROJECT_DIR$/ProjectA" />
-            <option value="$PROJECT_DIR$/ProjectB" />
+            <option value="$PROJECT_DIR$/core" />
+            <option value="$PROJECT_DIR$/tool" />
           </set>
         </option>
         <option name="useAutoImport" value="true" />
